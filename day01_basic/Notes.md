@@ -1,10 +1,10 @@
 ## Day 01 - Basic Python 📖
 
 What I learned:
-- _print()_
-- variable
-- data type
-- basic operation
+- Print
+- Input
+- Variable & data types
+- Basic arithmetic
 
 Problem: -
 
