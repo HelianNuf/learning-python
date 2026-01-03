@@ -1,11 +1,21 @@
-## Day 01 - Basic Python 📖
+# Day 01 – Python Basics 📝
 
-### What I learned:
-- _print()_
-- variable
-- data type
-- basic operation
+## What I Learned 📖
+- print()
+- input()
+- Variables
+- Data types 
+- Basic operations (arithmetic)
 
-### Next step:
-- learn if else
-- learn comparison
+## Files 📑
+- Basic_Operation.py
+- Print.py
+- Variabel_DataType.py
+
+## Study Case 🔎
+- Show Students Biodata
+- Calculation Students Grades
+
+## Next Step 🔜
+- If / else
+- Comparison & logical operators
